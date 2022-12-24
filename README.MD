@@ -1,6 +1,6 @@
 
 # Responsive landing page "PaulDesign"
-### **https://tshliakhov.github.io/sauldesign-landing/**  
+### **https://shliakhov.github.io/sauldesign-landing/**  
 **Technologies I used:**  
 * HTML5
 * CSS3
